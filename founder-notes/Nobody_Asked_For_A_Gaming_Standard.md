@@ -26,6 +26,8 @@ Immersive media inverts the split. A branded world, an in-world integration, a b
 A format is a container that pre-exists its occupant, so immersive brand presence has no format. This is not a shortfall in the taxonomy. It is a structural property of inventory the advertiser authors, and it holds however the taxonomy is written.
 
 ## The pattern across media
+![The pattern across media: a table comparing inventory types by who builds the container, whether it survives the advertiser, its countable unit, and how it's transacted. Display banner, pre-roll video, and OOH bulletin are publisher/media-owner built, survive the advertiser, and have a countable unit transacted by rate card or auction. OOH spectacular/wrap/custom build, product placement, experiential activation, and immersive activation are advertiser-built, do not survive the advertiser, have no countable unit, and are transacted by negotiation.](pattern_across_media.png)
+
 The unit exists exactly where the container pre-exists the advertiser, and nowhere else. Immersive is not an exception to media's rule. It is the one category composed entirely of the case every other channel already handles by negotiation.
 
 Out-of-home makes the point from inside. It is the channel most often cited as proof that placed, un-served inventory can be counted, and it already contains inventory it cannot count. Bulletins, posters, and transit carry the currency. Spectaculars, wraps, and custom builds do not — they are advertiser-authored, priced by negotiation, and sit outside the standard. 
