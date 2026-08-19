@@ -1,3 +1,5 @@
+# GTA 6 Ran the Experiment Nobody Could Buy
+
 Grand Theft Auto 6 (GTA 6) ran the largest gaming audience-location study in advertising history, in public, for free. The result settles where the gaming audience actually lives.
 
 

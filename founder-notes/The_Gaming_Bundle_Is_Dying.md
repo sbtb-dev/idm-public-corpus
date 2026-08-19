@@ -1,5 +1,6 @@
-An independent programmatic authority just sorted a large slice of gaming media into its native channel. It never mentioned immersive media. It landed outside the category boundary.
+# The Gaming Bundle Is Dying
 
+An independent programmatic authority just sorted a large slice of gaming media into its native channel. It never mentioned immersive media. It landed outside the category boundary.
 ***
 
 The Gaming Marketing Institute, which I founded, has published seven pieces making a central argument: gaming is not a channel. It is a collection of formats grouped under an audience label — otherwise known as the gaming bundle. Each format in the bundle belongs in the channel its response evidence and its buying motion already place it in.

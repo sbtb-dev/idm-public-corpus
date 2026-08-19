@@ -1,3 +1,5 @@
+# EA Is Selling Impressions While Sitting on Response
+
 Their games already run to a standard advertisers aren't being offered. The reason isn't withholding. It's that nothing tells the buyer to ask for it.
 ***
 

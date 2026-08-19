@@ -1,3 +1,5 @@
+# UGC Gaming Is Not a Channel Boundary
+
 The gaming bundle is being rescoped to user-generated content (UGC) gaming platforms and mistaken for a channel. A smaller bundle sorted by the same principle is a more convincing bundle, not a bounded one.
 ***
 

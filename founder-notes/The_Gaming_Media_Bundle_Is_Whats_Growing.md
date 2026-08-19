@@ -1,3 +1,5 @@
+# The Gaming Media Bundle Is What's Growing
+
 Gaming advertising's growth story is native format supply expanding into gaming audiences. It is not a channel forming. Every format inside the reported growth already belongs to display, video, or sponsorship, and each one books to that channel's line. More formats in the bundle is not a bundle becoming a channel.
 
 July 23 supplied the demonstration. Microsoft opened a new route into gaming audiences, priced it, and disclosed exactly what it does not touch.

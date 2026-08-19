@@ -1,3 +1,5 @@
+# Roblox Priced The Wrong Unit
+
 A note on Roblox's new CPM framework — and why a premium impression has no scaling story.
 ***
 

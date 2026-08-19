@@ -1,4 +1,7 @@
+# Nobody Asked For A Gaming Standard
+
 A note on IAB UK's gaming-measurement roundtable — and the one unit the standard it's reaching for cannot produce.
+***
 
 A measurement standard for gaming media is being built right now, and the first thing I noticed was who is building it. The parties asking for it sell the inventory it would price. No brand asked them to. That composition is the tell, and it points at something the effort cannot fix: the unit everyone is converging on cannot be built — not because the methodology is immature, but because one member of what it would count has no container to count.
 

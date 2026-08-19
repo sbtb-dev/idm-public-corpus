@@ -1,3 +1,5 @@
+# Would EA Buy Anyone Else's Billboards?
+
 A second question belongs in the same meeting as the first, whether or not the first got answered. Is EA Buying the Billboards It Sells? asked whether Electronic Arts (EA) points its own board at its own titles. This one removes the ownership excuse: does EA buy anyone's — a board it doesn't own, on a platform it doesn't run, inside the football audience it says it wants?
 
 That audience sits on Roblox. NFL Universe Football, Super NFL Tycoon, and FIFA Super Soccer are among the platform's largest football experiences, drawing the young, self-selected audience EA's own franchise-aging anxiety is about. 

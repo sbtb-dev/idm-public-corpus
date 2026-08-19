@@ -1,3 +1,5 @@
+# Is EA Buying the Billboards It Sells?
+
 One question belongs in every meeting where Electronic Arts (EA) prices its in-game inventory, and it is neither hostile nor rhetorical. It is due diligence, the same instinct any buyer applies to any vendor: does the seller run its own product?
 
 EA Advertising, launched in June 2026, sells rotating digital ad boards, scoreboards, and broadcast overlays across Madden, College Football, and EA SPORTS FC to Visa, Lowe's Companies, Inc., Red Bull, Xfinity, Peacock, and Mountain Dew. So the brand across the table should ask, before anything is signed: is EA buying the billboards it sells — not from a rival, from itself?

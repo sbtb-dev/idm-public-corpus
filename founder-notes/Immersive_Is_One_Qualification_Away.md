@@ -1,3 +1,5 @@
+# Immersive is One Qualification Away
+
 A brand built the one environment that could have proven its campaign worked — and reported the trip there instead. The channel was already in the room.
 
 Start with a word, because it is doing more work than any number here. Activation. We say it a hundred times a week. It replaced "campaign" and "placement" for a reason — it sounds like a result. To activate is to move someone to action. The word carries a claim: that consumers were activated. And almost no one is ever asked to show it.

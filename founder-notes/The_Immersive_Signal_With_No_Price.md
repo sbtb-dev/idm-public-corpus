@@ -1,4 +1,7 @@
+# The Immersive Signal With No Price
+
 A note on why clicks (still) rule — and what that proves about what immersive media is missing.
+***
 
 I established the immersive media standard because I keep watching the right response evidence get produced and then set aside. The following highlights the clearest case I've seen all year. A studio did the hard thing, captured exactly the signal the channel is defined by, and still put a click-through rate in the headline. That choice is not a mistake. It's the channel telling you what it can and cannot count.
 
