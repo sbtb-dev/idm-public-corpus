@@ -1,0 +1,25 @@
+# The Channel The IAB Framework Owed Itself - Part Two
+
+Part I established that the IAB Gaming Measurement Framework dissolved the gaming bundle by enforcing native channel boundaries across display, video, and audio — then exempted itself from the same rule for Custom, the one matrix it alone was positioned to define. 
+
+Custom was left without a boundary: no membership criterion, no exclusion, no statement of what a planner is buying. This piece runs the framework's own Custom columns through the question the framework refused to ask. The boundary was drawable from the material the framework already had. This is the demonstration.
+
+The question is immersive media's advertising boundary — the line that separates the channel from every adjacent one. Display, video, and audio are bounded by what the ad is. This boundary is drawn by what the environment produces:
+
+Does this format produce direct behavioral evidence of consumer response at pre-conversion funnel stages, attributable to the brand's presence, captured by the environment's native instrumentation, observed within a unified environment?
+
+Run each of the framework's Custom columns through it.
+
+## Three verdicts, not two
+The cut produces three outcomes, and the third is the one the framework's own row-level sorting obscures.
+
+Capable — qualify per activation. Branded worlds, integrations, and branded games can run on infrastructure that observes consumer behavior at every pre-conversion stage. The capacity to produce the evidence can be present in the environment. That capacity is not the verdict. Capable is not admitted. A branded world that instruments brand-attributed response is inventory; the same world that instruments nothing is décor in a qualifying location. The environment's capacity never hands the activation its qualification — the surface the brand organizes either carries its own response capture or it does not. These three columns earn a gate to run, not a pass.
+
+Excluded — resolves to a native channel. Sponsorship produces reported reach and modeled exposure. Playables observe interaction with the ad unit, which is a proxy for intent, not response to brand presence in the environment. Livestream/Social produces concurrent viewers, chat, and shares — earned signal generated around the activation. Each is a real format with a real channel, and the channel is not this one. Two of the three give the cleanest proof available that Custom is not a category: sponsorship and livestream are columns under Display and Video as well. A matrix that re-admits formats it has already filed elsewhere has drawn no boundary. The re-admission is the holding pen, visible in the framework's own column headers.
+
+Excluded as defined. Skins/Logos and Digital Goods/UGC are the only excluded columns that carry a real in-environment behavioral signal — skin retention, equipment, item redemption. As the framework defines them they still exclude: a worn skin or a placed logo is brand presence, which is an input, and a distributed branded good is usage, not unified pre-conversion response capture attributable to the brand's presence. But the signal is there, and the framework files it in the same column as impressions with no different status. That is the matrix's defect at row level — a real behavioral signal listed beside exposure, undifferentiated by kind. A specific, instrumented case inside either column could be argued up to a capable status. As written, the column is one signal short, and the verdict records exactly that: excluded as defined, not excluded outright.
+
+## The cut
+Three columns capable, five excluded — three to native channels, two as defined. The boundary is the line between the first three and the last five, and it falls inside the matrix, not around it. The framework assembled the column headers that make the cut visible and declined to draw it, because the cut requires sorting by response evidence, and the framework sorts by what is available to measure.
+
+The line is drawable. This is the demonstration. The environments that observe consumer response to the brand's presence are a defined set, separable from the formats that carry exposure, using nothing but the framework's own columns and one question it did not ask. The boundary the framework owed was never missing for lack of material. It was missing for lack of the question. The material was in the matrix the whole time.
