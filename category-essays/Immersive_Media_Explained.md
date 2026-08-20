@@ -1,4 +1,4 @@
-# Immersive Media Explained
+# Immersive Media, Explained
 
 The following defines immersive media as an advertising category. It establishes the advertising boundary test required to qualify a channel, and identifies what the test admits and excludes. 
 
