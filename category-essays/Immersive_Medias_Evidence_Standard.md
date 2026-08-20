@@ -45,6 +45,9 @@ Media planners can apply the advertising boundary test to any channel — with c
 
 ## Structural and advertising boundaries
 
+![Structural is not advertising: a diagram showing two boundaries. Structurally immersive environments (Fortnite, Roblox, Minecraft) are defined by how users interact with the medium and are not advertising channels by default. Advertising-qualifying inventory is defined by the activation surface producing direct, brand-attributed evidence via native instrumentation — the boundary test for what planners buy against. Capacity is inherited; qualification is still tested. Not all structurally immersive environments qualify as channels.](Structural_is_not_advertising.png)
+*Immersive media's structural and advertising boundaries*
+
 Immersive media's structural boundary defines how users interact with the medium. Its advertising boundary qualifies environments as media channels. Media planning is concerned with the latter not the former.
 
 Qualification for one does not imply qualification for the other. The largest user-generated content (UGC) gaming platforms — Fortnite, Roblox, Minecraft — are structurally classified as immersive. That classification alone does not make them advertising channels.
@@ -74,6 +77,8 @@ Free-to-play live service games are not commercially successful because they are
 The claim is straightforward. Consumer response at pre-conversion funnel stages is the gold standard because it is the only evidence capable of supporting an operator's commercial decisions. 
 
 Surveys produce stated response, not behavioral response. Downstream measurement produces outcome data after the decision window has closed. Social listening — Reddit threads, Discord chatter, community forums — produces self-selected commentary from a non-representative population. None of these options observe consumer response at pre-conversion funnel stages directly.
+
+![What evidence qualifies: a boundary-test diagram. Surveys (stated response, not behavior), downstream measurement (after the decision window closes), social listening (self-selected, non-representative), and inferred analytics (modeled, not observed) all fall on the wrong side of the boundary. Only direct behavioral observation at pre-conversion funnel stages passes. Four classes of evidence stop at the boundary. One passes.](What_Evidence_Qualifies.png)
 
 The class of behavioral evidence the commercial model depends on exists nowhere else.
 
