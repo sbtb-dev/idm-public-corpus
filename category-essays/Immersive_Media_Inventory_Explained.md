@@ -6,6 +6,9 @@ Inventory cannot inherit capacity from the host environment. That definition set
 
 That gap is real because the category's advertising boundary test adjudicates environments, and a brand does not buy an environment. An environment qualifies because it is capable of hosting qualifying inventory — not because qualification is a property the whole surface possesses and hands down to everything inside it.
 
+![Structural is not advertising: a diagram showing two boundaries. Structurally immersive environments (Fortnite, Roblox, Minecraft) are defined by how users interact with the medium and are not advertising channels by default. Advertising-qualifying inventory is defined by the activation surface producing direct, brand-attributed evidence via native instrumentation — the boundary test for what planners buy against. Capacity is inherited; qualification is still tested. Not all structurally immersive environments qualify as channels.](Structural_is_not_advertising.png)
+*Immersive media's structural and advertising boundaries*
+
 A "yes" on the advertising boundary test means the context can host at least one advertising unit. It does not mean the entire context is an advertising unit, and it does not mean every part qualifies. There is nothing to hand down. The qualification does not adjudicate the entire media surface; it is a verdict about what the context is capable of supporting.
 
 ## Showing up is not inventory
@@ -21,6 +24,9 @@ A brand that adds presence and calls the result inventory has installed the meas
 This clarifies the inventory's buying motion. Because inventory is defined by capacity and not by ownership, a brand that builds a bespoke world or a branded game is manufacturing inventory — provided there is capacity to produce admissible evidence.
 
 The brand isn't buying access to an environment. It's constructing one and producing the inventory inside it. In every fixed-supply channel, inventory is a thing the platform sells and the buyer selects. Here, qualified supply can be built — which means the brand's design decisions are inventory decisions. A branded game that instruments consumer response at pre-conversion funnel stages is inventory. The same game that instruments nothing is an expensive piece of décor.
+
+![Qualify, then select: a diagram contrasting buying motions. In a fixed-supply channel, the platform pre-qualifies — platform qualifies, buyer selects across a known set, inventory is bought. In the immersive channel, there is no pre-qualification — the buyer qualifies (can it produce units?), a qualified set exists (units that meet the standard), the buyer selects across the qualified set, then inventory is bought. In immersive, the buyer carries the qualification the platform would otherwise have done.](immersive_buying_motion.png)
+*Immersive media's buying motion*
 
 This forces a buying motion other digital channels lack. In a fixed-supply channel the platform has already done the qualification, so the buy is selection across a known set. In immersive, no one has done it — so the buyer qualifies first, then selects. Qualification establishes whether the environment can produce units. Those units do not exist until they are constructed.
 
