@@ -24,6 +24,8 @@ The two variables are coupled. If the activation environment produces response e
 
 Otherwise, that work has to be layered on through third-party measurement, custom reporting, and post-hoc reconciliation — which shows up as input friction. The plot below positions established advertising channels across a quadrant of input and output magnitudes. Then, cited gaming formats are placed in their native channels.
 
+![Media Format Scalability Quadrant: output (brand-attributed response evidence) plotted against input (unit economics). Display/Programmatic sits in the low-input-cost, weak-output "scalable commodity" quadrant. Branded Integration, at its evidence potential, sits in the high-input-cost, strong-output "selectively scales" quadrant — but as priced on CPM, it drops straight down into the high-input-cost, weak-output "does not scale" quadrant. Caption: the integration's input cost never changes; its output collapses because the unit of account changed from response to impression.](Media_Format_Scalability_Quadrant.png)
+
 ## Gaming display is display
 The most common form of in-game advertising — banner ads in mobile games, video ads between game sessions, interstitial inventory in free-to-play environments — is display inventory. It can be bought programmatically through the same exchanges that serve banner and video ads across the open web and app ecosystem. The ad units are the same. The measurement is the same: viewability, click-through, modeled attribution. The buying motion is the same: auction-based, self-serve, frictionless at scale.
 
