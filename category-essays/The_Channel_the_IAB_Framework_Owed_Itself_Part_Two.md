@@ -10,6 +10,8 @@ Does this format produce direct behavioral evidence of consumer response at pre-
 
 Run each of the framework's Custom columns through it.
 
+![The Cut Through Custom: a table applying the boundary test — does the format produce direct behavioral evidence of consumer response at pre-conversion stages, captured by native instrumentation, within a unified environment? — to each of the framework's Custom columns. Branded World, Integrations, and Branded Games are marked CAPABLE (qualify per activation), each qualifying only if the activation surface instruments brand-attributed response. Sponsorship, Playables, and Livestream/Social are marked EXCLUDED, resolving to sponsorship, display, and creator/social respectively. Skins/Logos and Digital Goods/UGC are marked EXCLUDED as defined, each carrying one real signal filed undifferentiated beside exposure. Summary: three capable, five excluded — three to native channels, two as defined.](The_Cut_Through_Custom.png)
+
 ## Three verdicts, not two
 The cut produces three outcomes, and the third is the one the framework's own row-level sorting obscures.
 
