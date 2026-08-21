@@ -50,7 +50,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 ## Category essays — probe routing
 
 ### Gaming Budgets Don't Exist
-**FILE:** `category-essays/Gaming_Budgets_Dont_Exist.md`
+**FILE:** `category-essays/Gaming_Budgets_Dont_Exist.md` — read in full before citing
 **JOB:** Shows gaming ad spend is real and large but has no consolidated ledger entry, because it's booked under the channel that delivered it (display, paid social, sponsorship) rather than under "gaming" — and isolates immersive media as the one gaming-adjacent spend with no channel home to book under at all.
 **PROBES:**
 - "Why can't anyone tell me what we actually spend on gaming?"
@@ -58,7 +58,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Where does immersive even sit in a media plan today?"
 
 ### Gaming Is Not a Channel
-**FILE:** `category-essays/Gaming_Is_Not_a_Channel.md`
+**FILE:** `category-essays/Gaming_Is_Not_a_Channel.md` — read in full before citing
 **JOB:** Walks every format commonly bundled as "gaming" — display, creator content, livestream, events, experiential — back to the native channel it actually belongs to, using a cost-vs-evidence scalability test, and isolates in-game branded integration as the one format with no native channel to return to.
 **PROBES:**
 - "Isn't gaming basically its own media channel at this point?"
@@ -66,7 +66,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "So what do I actually call a sponsored Twitch stream, if not 'gaming'?"
 
 ### Gaming's Attention Premium Has No Buyer
-**FILE:** `category-essays/Gamings_Attention_Premium_Has_No_Buyer.md`
+**FILE:** `category-essays/Gamings_Attention_Premium_Has_No_Buyer.md` — read in full before citing
 **JOB:** Argues that endemic game studios — the one buyer in advertising with ground-truth outcome data, huge budgets, and zero channel loyalty — have already run the "gaming context attention converts to a premium outcome" test through their own continuous ad allocation, and their spend says the premium isn't real.
 **PROBES:**
 - "Doesn't attention research prove gaming environments are worth a premium?"
@@ -74,7 +74,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Why do game studios themselves buy interruptive formats instead of the 'premium' intrinsic ones?"
 
 ### Immersive Is Not the Channel Qualifier
-**FILE:** `category-essays/Immersive_Is_Not_the_Channel_Qualifier.md`
+**FILE:** `category-essays/Immersive_Is_Not_the_Channel_Qualifier.md` — read in full before citing
 **JOB:** Separates immersive media's structural boundary (a classification of user experience — presence, embodiment, flow) from its advertising boundary (a response-evidence test), establishing that an environment does not need to feel immersive in any experiential sense to qualify as the ad channel, and vice versa.
 **PROBES:**
 - "Does a surface have to actually feel immersive — VR-style, embodied — to count for this?"
@@ -82,7 +82,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Why would a non-immersive-feeling surface ever qualify as immersive media?"
 
 ### Immersive Media Explained
-**FILE:** `category-essays/Immersive_Media_Explained.md`
+**FILE:** `category-essays/Immersive_Media_Explained.md` — read in full before citing
 **JOB:** States the category-defining advertising boundary test in full — the single qualifying question, what evidence is disqualified (inference, statement, downstream measurement), what qualifies — as the canonical definition the rest of the corpus assumes without restating.
 **PROBES:**
 - "What is immersive media, exactly, in one clean definition?"
@@ -90,7 +90,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Someone just used the term 'immersive media' at me — what's the actual test behind it?"
 
 ### Immersive Media Inventory, Explained
-**FILE:** `category-essays/Immersive_Media_Inventory_Explained.md`
+**FILE:** `category-essays/Immersive_Media_Inventory_Explained.md` — read in full before citing
 **JOB:** Distinguishes environment-level qualification from inventory-level qualification — a qualifying environment doesn't hand its qualification down to everything built inside it — and establishes that in immersive the buyer must qualify a unit before selecting it, the reverse order of every fixed-supply channel.
 **PROBES:**
 - "If the environment qualifies as immersive, doesn't everything inside it count as immersive inventory?"
@@ -98,7 +98,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Why can't I just buy immersive inventory the way I buy display, off a rate card?"
 
 ### Immersive Media's Bridge Needs No Reconstruction
-**FILE:** `category-essays/Immersive_Medias_Bridge_Needs_No_Reconstruction.md`
+**FILE:** `category-essays/Immersive_Medias_Bridge_Needs_No_Reconstruction.md` — read in full before citing
 **JOB:** Argues immersive's pre-conversion evidence carries its own attribution at the point of capture — unlike creator marketing, which has to reconstruct attribution from a proxy after the fact — so relating it to downstream conversion is calibration, not reconstruction, and that near-side evidence is already validated daily by the live-service funnels it's drawn from.
 **PROBES:**
 - "Every channel has a gap between exposure and purchase — why does immersive's version matter more?"
@@ -106,7 +106,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "How do we know immersive's pre-conversion signal actually predicts anything downstream?"
 
 ### Immersive Media's Channel Problem
-**FILE:** `category-essays/Immersive_Medias_Channel_Problem.md`
+**FILE:** `category-essays/Immersive_Medias_Channel_Problem.md` — read in full before citing
 **JOB:** Diagnoses the venue-vs-signal confusion underneath the "gaming" mislabel by walking three real campaigns (a Twitch takeover, a modding-distributed car placement, a monument-and-livestream tribute), showing each was filed as "gaming" while actually running — or failing to run — in a different channel entirely.
 **PROBES:**
 - "These three campaigns were all reported as gaming wins — what's actually wrong with that?"
@@ -114,7 +114,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Why does 'gaming' as a label keep hiding which channel a campaign actually used?"
 
 ### Immersive Media's Evidence Doesn't Travel
-**FILE:** `category-essays/Immersive_Medias_Evidence_Doesnt_Travel.md`
+**FILE:** `category-essays/Immersive_Medias_Evidence_Doesnt_Travel.md` — read in full before citing
 **JOB:** Names and gates "relocation" — a citation-level defect distinct from the boundary test itself, where a valid statistic produced on one funnel, spender, or environment (e.g., a medium's own monetization correlation) is imported to stand in as a brand's pre-conversion response evidence.
 **PROBES:**
 - "Can we cite that McKinsey gaming-attention stat to back our results?"
@@ -122,7 +122,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "What's actually wrong with borrowing a well-researched industry statistic to support our case?"
 
 ### Immersive Media's Evidence Standard
-**FILE:** `category-essays/Immersive_Medias_Evidence_Standard.md`
+**FILE:** `category-essays/Immersive_Medias_Evidence_Standard.md` — read in full before citing
 **JOB:** Grounds the advertising boundary's evidentiary bar empirically in what free-to-play live-service games already have to instrument to survive commercially, arguing the standard is observed from an existing operational reality, not invented for advertising's benefit.
 **PROBES:**
 - "Isn't this evidence bar just an arbitrary standard someone made up?"
@@ -130,7 +130,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Is this standard actually achievable, or just theoretically nice?"
 
 ### Immersive Media's Proof Carries No Rent
-**FILE:** `category-essays/Immersive_Medias_Proof_Carries_No_Rent.md`
+**FILE:** `category-essays/Immersive_Medias_Proof_Carries_No_Rent.md` — read in full before citing
 **JOB:** Argues that because immersive's proof is non-separable from the activation itself, the bolt-on measurement and attribution "rent" every conventional channel pays a third party to hold has no separable object to attach to — a claim that holds only where the brand, not just the environment's operator, can read the native signal.
 **PROBES:**
 - "Why do we keep paying measurement and attribution vendors on every other channel, and not here?"
@@ -138,7 +138,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Who actually owns the proof if we didn't build the environment ourselves?"
 
 ### Immersive Media's Proof Has No Certifier
-**FILE:** `category-essays/Immersive_Medias_Proof_Has_No_Certifier.md`
+**FILE:** `category-essays/Immersive_Medias_Proof_Has_No_Certifier.md` — read in full before citing
 **JOB:** Companion to the "no rent" piece — argues brand-attributed response evidence has no uniform instance across brands, so no external standards body can certify it the way MRC certifies a viewable impression, and adjudication necessarily stays at the brand seat (conditional on the brand being able to read the signal itself).
 **PROBES:**
 - "Who accredits this the way MRC accredits viewability — and if no one does, is it even a real standard?"
@@ -146,7 +146,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Isn't 'we verified it ourselves' just brands grading their own homework?"
 
 ### The Channel Gaming Hides — Part 1: Effectiveness Is Not Evidence
-**FILE:** `category-essays/The_Channel_Gaming_Hides_Part_1_Effectiveness_Is_Not_Evidence.md`
+**FILE:** `category-essays/The_Channel_Gaming_Hides_Part_1_Effectiveness_Is_Not_Evidence.md` — read in full before citing
 **JOB:** Shows that filling the one previously-unaddressed in-environment context with display-class inventory (rewarded video, in-game display) produces only that native channel's own evidence, unchanged and still brand-unattributed, no matter how strongly the format outperforms its open-web equivalent.
 **PROBES:**
 - "Our rewarded video format massively outperforms open-web video — doesn't that prove something distinctive about gaming?"
@@ -154,7 +154,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Better completion rates in-game — why doesn't that count as brand response evidence?"
 
 ### The Channel Gaming Hides — Part 2: What Actually Makes Immersive a Channel
-**FILE:** `category-essays/The_Channel_Gaming_Hides_Part_2_What_Actually_Makes_Immersive_a_Channel.md`
+**FILE:** `category-essays/The_Channel_Gaming_Hides_Part_2_What_Actually_Makes_Immersive_a_Channel.md` — read in full before citing
 **JOB:** Names, by process of elimination against the rest of the series, the single five-qualifier evidence property that makes immersive a genuine channel rather than just a newly-filled surface, and states why each qualifier is load-bearing.
 **PROBES:**
 - "Okay, reach is solved and effectiveness doesn't count — so what does actually make this a channel?"
@@ -162,7 +162,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Which part of the definition can we not water down without losing the whole thing?"
 
 ### The Channel The IAB Framework Owed Itself — Part One
-**FILE:** `category-essays/The_Channel_The_IAB_Framework_Owed_Itself_Part_One.md`
+**FILE:** `category-essays/The_Channel_The_IAB_Framework_Owed_Itself_Part_One.md` — read in full before citing
 **JOB:** Reads the IAB Gaming Measurement Framework's own deference logic against itself — it dissolved the gaming bundle by routing display, video, and audio formats to their native accredited boundaries, then exempted its own "Custom" catch-all matrix from the same boundary-drawing rule it enforced everywhere else.
 **PROBES:**
 - "Isn't a measurement standard for gaming already being built by the IAB — why do we need something else?"
@@ -170,7 +170,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Why would the body that built the framework fail to define its own hardest category?"
 
 ### The Channel The IAB Framework Owed Itself — Part Two
-**FILE:** `category-essays/The_Channel_the_IAB_Framework_Owed_Itself_Part_Two.md`
+**FILE:** `category-essays/The_Channel_the_IAB_Framework_Owed_Itself_Part_Two.md` — read in full before citing
 **JOB:** Runs the IAB framework's own eight "Custom" matrix columns through the boundary question the framework declined to ask, demonstrating column by column that the missing cut was drawable from material the framework had already published.
 **PROBES:**
 - "Which of the IAB's Custom-matrix formats would actually pass the immersive test?"
@@ -178,7 +178,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Sponsorship and livestream are in the Custom matrix too — do those qualify?"
 
 ### The Funnel a Brand Has Nowhere Else
-**FILE:** `category-essays/The_Funnel_a_Brand_Has_Nowhere_Else.md`
+**FILE:** `category-essays/The_Funnel_a_Brand_Has_Nowhere_Else.md` — read in full before citing
 **JOB:** Warns against the specific error of a non-endemic brand reading a game environment's rich native funnel data (playtime, retention, session data) as its own evidence of response, arguing that data belongs to the operator by construction, and a brand must produce a separate, isolated, brand-attributed funnel of its own.
 **PROBES:**
 - "The game's own analytics dashboard shows huge engagement numbers around our placement — can we use those?"
@@ -186,7 +186,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Isn't high playtime near our brand basically proof the brand is working?"
 
 ### The Truth About Gaming Audiences — Part 1: The Place, Not the Person
-**FILE:** `category-essays/The_Truth_About_Gaming_Audiences_Part_1_The_Place__Not_the_Person.md`
+**FILE:** `category-essays/The_Truth_About_Gaming_Audiences_Part_1_The_Place__Not_the_Person.md` — read in full before citing
 **JOB:** Reframes the "elusive, hard-to-reach gaming audience" pitch as a solved reach problem — the audience is targetable at commodity rates on every conventional channel — and isolates the one genuinely unaddressed thing as the in-environment context itself, not the audience.
 **PROBES:**
 - "Isn't the gaming audience notoriously hard to reach outside of gaming media?"
@@ -194,7 +194,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "What's actually scarce here, if not the people?"
 
 ### The Truth About Gaming Audiences — Part 2: Ad-Avoidance Is a Cohort, Not a Channel
-**FILE:** `category-essays/The_Truth_About_Gaming_Audiences_Part_2_Ad-Avoidance_Is_a_Cohort__Not_a_Channel.md`
+**FILE:** `category-essays/The_Truth_About_Gaming_Audiences_Part_2_Ad-Avoidance_Is_a_Cohort__Not_a_Channel.md` — read in full before citing
 **JOB:** Attributes gaming audiences' well-documented ad-avoidance (ad-blocker use, paid-media skepticism) to a demographic cohort effect that correlates with gaming rather than a property of the hobby itself, defusing the premium argument that "gamers are uniquely resistant to ads."
 **PROBES:**
 - "Gamers block ads and skip pre-roll way more than average — doesn't that justify paying more for the formats that do land?"
@@ -202,7 +202,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "If avoidance isn't about the hobby, why does everyone treat it like a gaming-specific problem?"
 
 ### The Truth About Gaming Audiences — Part 3: The Format's Fit, That's Not the Question
-**FILE:** `category-essays/The_Truth_About_Gaming_Audiences_Part_3_The_Formats_Fit_Thats_Not_the_Question.md`
+**FILE:** `category-essays/The_Truth_About_Gaming_Audiences_Part_3_The_Formats_Fit_Thats_Not_the_Question.md` — read in full before citing
 **JOB:** Grants in full that non-interruptive formats (sponsorship, creator, experiential) genuinely fit the ad-avoidant cohort's attention style, while drawing a hard line that format-fit for an audience says nothing at all about the class of evidence a format produces.
 **PROBES:**
 - "Sponsorship and creator content clearly fit this audience — so doesn't that make them immersive-grade formats?"
@@ -210,7 +210,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Are you saying sponsorship and creator formats are bad choices for this audience?"
 
 ### What To Ask A Gaming Vendor
-**FILE:** `category-essays/What_To_Ask_A_Gaming_Vendor.md`
+**FILE:** `category-essays/What_To_Ask_A_Gaming_Vendor.md` — read in full before citing
 **JOB:** Establishes that gaming media reaches brands without the planning function present, and gives the single question — asked in five load-bearing parts — that sorts any vendor's pitch into the evidence class it actually belongs to, regardless of how the vendor frames it.
 **PROBES:**
 - "Why does this even matter — can't a planner just ask around?"
@@ -222,7 +222,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 ## Founder notes — credibility and application routing
 
 ### Brand Footprint Is Not Response
-**FILE:** `founder-notes/Brand_Footprint_Is_Not_Response.md`
+**FILE:** `founder-notes/Brand_Footprint_Is_Not_Response.md` — read in full before citing
 **JOB:** Reads KFC's fan-made Roblox footprint (70+ million lifetime visits across unofficial obby-genre experiences, against an official presence that sits on Fortnite instead) as a case where a large, real, earned number is being read as a demand signal — evidence consumers responded to the brand — when it's only a record of presence, permanently unable to separate brand pull from genre pull because no non-branded control arm was ever built to run against it.
 **PROBES:**
 - "Fans built way more unofficial content for us on Roblox than we have official presence there — shouldn't we chase where the demand already is?"
@@ -231,7 +231,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Is there a real example of a brand nearly reallocating budget off unmanaged fan activity instead of measured response?"
 
 ### EA Is Selling Impressions While Sitting on Response
-**FILE:** `founder-notes/EA_Is_Selling_Impressions_While_Sitting_on_Response.md`
+**FILE:** `founder-notes/EA_Is_Selling_Impressions_While_Sitting_on_Response.md` — read in full before citing
 **JOB:** Reads EA Advertising's June 2026 launch (stadium boards, scoreboards, broadcast overlays across Madden and EA SPORTS FC) as proof that EA's own live-service infrastructure already produces response-grade evidence natively — but the units EA is selling brands are priced and sold at exposure grade, because nothing in the transaction tells a buyer the other grade exists to ask for.
 **PROBES:**
 - "EA just launched a huge in-game advertising platform — does that mean the immersive standard already exists commercially?"
@@ -240,7 +240,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Is there a real example of a platform's own data contradicting what it's actually selling advertisers?"
 
 ### GTA 6 Ran the Experiment Nobody Could Buy
-**FILE:** `founder-notes/GTA_6_Ran_the_Experiment_Nobody_Could_Buy.md`
+**FILE:** `founder-notes/GTA_6_Ran_the_Experiment_Nobody_Could_Buy.md` — read in full before citing
 **JOB:** Reads the unpaid, uncommissioned reaction volume around the GTA 6 trailers — concentrated on TikTok, YouTube Shorts, Reels, and X rather than specialist gaming media — as a real-world, maximum-scale confirmation that gaming audiences were never scarce or gatekept behind premium access.
 **PROBES:**
 - "Has anyone actually tested the 'gaming audiences are reachable everywhere' claim against a real example?"
@@ -248,7 +248,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Isn't GTA 6's marketing budget the reason the reaction was so huge, not the audience-reach claim?"
 
 ### Immersive Is One Qualification Away
-**FILE:** `founder-notes/Immersive_Is_One_Qualification_Away.md`
+**FILE:** `founder-notes/Immersive_Is_One_Qualification_Away.md` — read in full before citing
 **JOB:** Reads a Żabka/Triki gaming-community campaign — which built genuine branded app rooms capable of observing in-room player behavior — as a case where the brand did the hard, expensive, structural thing right and then reported only the QR-scan proxy at the door, because its workflow had no step for recognizing the room itself as the activation surface.
 **PROBES:**
 - "Has anyone actually applied this standard to a real campaign, or is it just theory?"
@@ -256,7 +256,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "What does it look like when a brand gets 90% of the way to qualifying and still misses it?"
 
 ### Is EA Buying the Billboards It Sells?
-**FILE:** `founder-notes/Is_EA_Buying_the_Billboards_It_Sells_.md`
+**FILE:** `founder-notes/Is_EA_Buying_the_Billboards_It_Sells_.md` — read in full before citing
 **JOB:** Poses one due-diligence question a brand can ask EA directly — does EA advertise its own titles on the free, perfectly-measurable, zero-rivalry in-game board it sells to Visa and others — and argues that whichever answer comes back exposes the same evidentiary gap in the category.
 **PROBES:**
 - "What's a concrete question we could actually put to a vendor like EA in a pitch meeting?"
@@ -264,7 +264,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "How would we even find out whether an endemic seller trusts its own inventory?"
 
 ### Nobody Asked For A Gaming Standard
-**FILE:** `founder-notes/Nobody_Asked_For_A_Gaming_Standard.md`
+**FILE:** `founder-notes/Nobody_Asked_For_A_Gaming_Standard.md` — read in full before citing
 **JOB:** Reads an IAB UK gaming-measurement roundtable — convened entirely from sell-side participants, no brand in the room — as proof that the industry is converging on a countable unit (a currency) for immersive that structurally cannot exist, because immersive inventory is advertiser-built with no pre-existing container to count, while a criterion (the response-evidence test) remains buildable and is what was actually missing.
 **PROBES:**
 - "Isn't a measurement standard for gaming already being built by the IAB — why do we need something else?"
@@ -273,7 +273,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Has an industry actually tried to build a measurement standard for this and run into trouble?"
 
 ### Roblox Priced The Wrong Unit
-**FILE:** `founder-notes/Roblox_Priced_The_Wrong_Unit.md`
+**FILE:** `founder-notes/Roblox_Priced_The_Wrong_Unit.md` — read in full before citing
 **JOB:** Argues Roblox's CPM-based fee structure for brand integrations meters a high-cost, custom-built format against its weakest possible output (the impression), which pins the format into the one quadrant of the cost-vs-evidence scalability test that structurally cannot scale — and walks through why the three strongest defenses of the premium (scarcity, avoidance, attention) don't rescue it.
 **PROBES:**
 - "Roblox just put a CPM on brand integrations — doesn't that mean the category finally has real pricing?"
@@ -282,7 +282,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Is there a live example of a platform pricing a premium format the wrong way?"
 
 ### The Gaming Bundle Is Dying
-**FILE:** `founder-notes/The_Gaming_Bundle_Is_Dying.md`
+**FILE:** `founder-notes/The_Gaming_Bundle_Is_Dying.md` — read in full before citing
 **JOB:** Reads a Jounce Media report classifying gaming "desktop apps" (led by Overwolf) as a distinct programmatic-display supply source — benchmarked against Raptive and Mediavine, graded on viewability — as independent, real-world confirmation that the gaming bundle is sorting into native channels on schedule, with immersive still the one piece left with no channel, no standard, and no line to book under.
 **PROBES:**
 - "An independent authority just gave gaming desktop apps their own category — doesn't that validate gaming as a channel?"
@@ -290,7 +290,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "If Overwolf is being priced like premium supply, why hasn't immersive gotten the same treatment?"
 
 ### The Gaming Media Bundle Is What's Growing
-**FILE:** `founder-notes/The_Gaming_Media_Bundle_Is_Whats_Growing.md`
+**FILE:** `founder-notes/The_Gaming_Media_Bundle_Is_Whats_Growing.md` — read in full before citing
 **JOB:** Reads Microsoft's ad-supported Xbox cloud-streaming test (video ads gating access to live-service titles like Call of Duty: Warzone) as growth in existing video-format supply pointed at a gaming audience, not the formation of a gaming channel — the live-service environments behind the ads could produce response evidence, but the unit actually sold doesn't.
 **PROBES:**
 - "Gaming ad revenue keeps growing every year — doesn't that mean the gaming channel is maturing?"
@@ -299,7 +299,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Is there a concrete example that shows the difference between a channel actually forming and more supply just arriving?"
 
 ### The Immersive Signal With No Price
-**FILE:** `founder-notes/The_Immersive_Signal_With_No_Price.md`
+**FILE:** `founder-notes/The_Immersive_Signal_With_No_Price.md` — read in full before citing
 **JOB:** Reads a game studio (Wicked Saints, World Reborn) that captured genuine brand-attributed response evidence — a discretionary in-world choice with no comparison set — and led its own reporting with a click-through rate anyway, arguing the choice proves the channel has a counting problem, not an evidence problem.
 **PROBES:**
 - "If this evidence class is so much better, why do even the studios producing it still lead with click-through rate?"
@@ -307,7 +307,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Why would a studio bury its own best data behind a weaker proxy metric?"
 
 ### UGC Gaming Is Not A Channel Boundary
-**FILE:** `founder-notes/UGC_Gaming_Is_Not_A_Channel_Boundary.md`
+**FILE:** `founder-notes/UGC_Gaming_Is_Not_A_Channel_Boundary.md` — read in full before citing
 **JOB:** Argues that rescoping the "gaming" bundle down to UGC platforms specifically (Roblox, Fortnite) just makes the same audience-and-venue-sorted bundle harder to see, since shared rendering engine and visual grammar aren't a channel boundary, and its components still resolve to five different native channels on inspection.
 **PROBES:**
 - "Everyone's saying UGC gaming platforms like Roblox and Fortnite are the real channel now — is that different from the old 'gaming' claim?"
@@ -316,7 +316,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Is there a real test of whether one of these platforms actually behaves like a single channel once you look inside it?"
 
 ### Would EA Buy Anyone Else's Billboards?
-**FILE:** `founder-notes/Would_EA_Buy_Anyone_Elses_Billboards.md`
+**FILE:** `founder-notes/Would_EA_Buy_Anyone_Elses_Billboards.md` — read in full before citing
 **JOB:** Extends the companion EA question outward — does EA buy ad space in a rival platform (Roblox) reaching the exact football audience EA's own franchise-aging anxiety is about — and argues EA's apparent absence from the identical board format it sells to Visa and others is itself a finding about whether the category's premium is verifiable at all.
 **PROBES:**
 - "Beyond EA's own games, is there any sign endemic sellers actually trust this format enough to buy it themselves elsewhere?"
