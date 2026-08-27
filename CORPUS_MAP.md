@@ -44,6 +44,7 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 31. [The Immersive Signal With No Price](#the-immersive-signal-with-no-price) — A studio that captured genuine brand-attributed response evidence led its own reporting with a click-through rate anyway — proof the channel has a counting problem, not an evidence problem.
 32. [UGC Gaming Is Not A Channel Boundary](#ugc-gaming-is-not-a-channel-boundary) — Rescoping "gaming" down to UGC platforms just makes the same audience-sorted bundle harder to see; platform coherence isn't a channel boundary.
 33. [Would EA Buy Anyone Else's Billboards?](#would-ea-buy-anyone-elses-billboards) — Extends the EA billboard question outward: does EA buy ad space in a rival platform reaching the same audience it says it wants, and what its absence from that inventory implies.
+34. [Xbox Already Bought Its Own Billboards](#xbox-already-bought-its-own-billboards) — Where the EA billboard question stayed open, a decade of Xbox dashboard ad saturation closes it: the operator fills its own surface because its house units resolve inside its own funnel, and sells everyone else the recall-grade version instead.
 
 ---
 
@@ -323,6 +324,15 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "EA says the youth audience matters to them — so are they actually reaching it in gaming media, or just claiming to want it?"
 - "What would it mean if EA turned out to be buying nobody's board, including its own?"
 - "Is there any real test of whether sellers in this category put their own money behind the format they sell?"
+
+### Xbox Already Bought Its Own Billboards
+**FILE:** `founder-notes/Xbox_Already_Bought_Its_Own_Billboards.md` — read in full before citing
+**JOB:** Reads a decade of Xbox dashboard ad saturation — three console generations of documented user backlash the operator has paid in customer goodwill and kept paying anyway — as proof Microsoft can see a return the market can't: its own house units (Game Pass, DLC, hardware bundles) resolve inside Microsoft's own storefront funnel, producing an account-resolved outcome, while an identical slot sold to a non-endemic buyer like McDonald's produces only an impression, because Microsoft's funnel doesn't observe a drive-through purchase — showing a placement's evidentiary grade tracks funnel ownership, not format or venue.
+**PROBES:**
+- "Doesn't the fact that Xbox itself keeps running ads on its own dashboard prove that dashboard inventory works?"
+- "Is there a real example of a platform's own behavior answering the 'would the seller buy this from itself' question, rather than leaving it open?"
+- "Why would the exact same ad slot count as better evidence for Microsoft than for an outside brand buying it?"
+- "What's the actual difference between Xbox filling its own dashboard and EA not advertising on the in-game boards it sells?"
 
 ---
 
