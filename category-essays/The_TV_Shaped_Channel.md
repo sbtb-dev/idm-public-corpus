@@ -18,20 +18,6 @@ Two more pieces complete the machine. **The advertiser's own bespoke object — 
 
 Separation, standard unit, amortization, currency. That's how a channel with artisanal throughput carries industrial spend.
 
-### The trick TV pulled
-
-TV scaled because the expensive thing and the traded thing are two different objects, funded by two different parties.
-
-**The advertiser never buys the production.** The programming — the slow, costly, artisanal part — sits on the supply side. Networks and studios fund it, carry its risk, and recoup through the ad market and rights. What the programming does, from the ad market's point of view, is assemble an audience. That's its entire commercial function on the buy side: it gathers people, reliably, at scale, at the supplier's expense.
-
-**What the advertiser buys is a standardized slice of the audience the programming assembled.** The 30-second spot is the traded unit, and it has none of the production's properties. It's small, repeatable, and buyable in increments. A planner scales a TV buy by adding weight — more spots, more rating points — not by commissioning more television. The channel's creative throughput constraint is real, but it constrains the supply side's inventory, never the buy side's spend.
-
-Two more pieces complete the machine. **The advertiser's own bespoke object — the spot itself — amortizes.** A brand's commercial is also a custom production, but one spot runs thousands of times, so creative cost collapses to a small fraction of media spend. And **a currency makes thousands of incomparable productions tradable as one market.** A sitcom, a match, and a news hour have nothing in common as productions. They trade as comparable inventory because a third party prices every audience in the same unit. The ratings book is what lets a planner buy across all of it without adjudicating any of it.
-
-Separation, standard unit, amortization, currency. That's how a channel with artisanal throughput carries industrial spend.
-
-
-
 ### Immersive has been running the pre-TV model
 
 Now hold immersive against that template, and the channel's current condition stops looking like a mystery.
