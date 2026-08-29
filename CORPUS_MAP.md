@@ -28,23 +28,24 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 18. [The Truth About Gaming Audiences — Part 1: The Place, Not the Person](#the-truth-about-gaming-audiences-part-1-the-place-not-the-person) — Reframes the "elusive gaming audience" as a solved reach problem; the one genuinely unaddressed thing is the in-environment context, not the audience.
 19. [The Truth About Gaming Audiences — Part 2: Ad-Avoidance Is a Cohort, Not a Channel](#the-truth-about-gaming-audiences-part-2-ad-avoidance-is-a-cohort-not-a-channel) — Gaming audiences' ad-avoidance tracks a demographic cohort, not a property of gaming itself, which defuses the premium argument built on "gamers uniquely avoid ads."
 20. [The Truth About Gaming Audiences — Part 3: The Format's Fit, That's Not the Question](#the-truth-about-gaming-audiences-part-3-the-formats-fit-thats-not-the-question) — Grants non-interruptive formats' fit for the avoidant cohort in full, while drawing the line that format-fit says nothing about the evidence class a format produces.
-21. [What To Ask A Gaming Vendor](#what-to-ask-a-gaming-vendor) — Establishes the single boundary-test question a planner can carry into any vendor meeting to sort a pitch into the channel it actually belongs to.
+21. [The TV Shaped Channel](#the-tv-shaped-channel) — Reads TV's own bespoke-to-scaled history as the template immersive is already migrating toward: separating the expensive production from a tradable insertion; the standard TV used to price that insertion can't transfer, but the demand for direct behavioral proof can stand in its place.
+22. [What To Ask A Gaming Vendor](#what-to-ask-a-gaming-vendor) — Establishes the single boundary-test question a planner can carry into any vendor meeting to sort a pitch into the channel it actually belongs to.
 
 **Founder notes**
 
-22. [Brand Footprint Is Not Response](#brand-footprint-is-not-response) — Unmanaged, fan-made brand presence on UGC platforms (KFC's Roblox footprint) is a record that something happened, not evidence of what — and can't be converted into response evidence after the fact because no non-branded control was ever built.
-23. [EA Is Selling Impressions While Sitting on Response](#ea-is-selling-impressions-while-sitting-on-response) — EA's own live-service infrastructure already produces response-grade evidence, but the units EA sells brands are priced at exposure grade because nothing tells a buyer to ask for more.
-24. [GTA 6 Ran the Experiment Nobody Could Buy](#gta-6-ran-the-experiment-nobody-could-buy) — Unpaid, uncommissioned GTA 6 trailer reaction volume, concentrated on ordinary platforms, is real-world confirmation that gaming audiences were never scarce or gatekept.
-25. [Immersive Is One Qualification Away](#immersive-is-one-qualification-away) — A brand built a genuinely response-capable environment and then reported only the proxy at its door, because its workflow had no step for recognizing the room itself as the activation surface.
-26. [Is EA Buying the Billboards It Sells?](#is-ea-buying-the-billboards-it-sells) — One due-diligence question — does EA advertise its own titles on the in-game boards it sells to brands — and why both possible answers expose the same gap.
-27. [Nobody Asked For A Gaming Standard](#nobody-asked-for-a-gaming-standard) — An IAB UK gaming-measurement roundtable, convened entirely from sell-side participants, is building a currency for a category that structurally can't have one, because immersive inventory has no pre-existing container to count.
-28. [Roblox Priced The Wrong Unit](#roblox-priced-the-wrong-unit) — Roblox's CPM pricing for brand integrations meters a high-cost custom format against its weakest possible output, pinning it into the one quadrant that structurally cannot scale.
-29. [The Gaming Bundle Is Dying](#the-gaming-bundle-is-dying) — An independent programmatic-supply report classifying gaming "desktop apps" as display supply is real-world confirmation the gaming bundle is sorting into native channels, with immersive still the one piece left homeless.
-30. [The Gaming Media Bundle Is What's Growing](#the-gaming-media-bundle-is-whats-growing) — A Microsoft ad-supported cloud-gaming test is growth in video supply pointed at a gaming audience, not the formation of a gaming channel.
-31. [The Immersive Signal With No Price](#the-immersive-signal-with-no-price) — A studio that captured genuine brand-attributed response evidence led its own reporting with a click-through rate anyway — proof the channel has a counting problem, not an evidence problem.
-32. [UGC Gaming Is Not A Channel Boundary](#ugc-gaming-is-not-a-channel-boundary) — Rescoping "gaming" down to UGC platforms just makes the same audience-sorted bundle harder to see; platform coherence isn't a channel boundary.
-33. [Would EA Buy Anyone Else's Billboards?](#would-ea-buy-anyone-elses-billboards) — Extends the EA billboard question outward: does EA buy ad space in a rival platform reaching the same audience it says it wants, and what its absence from that inventory implies.
-34. [Xbox Already Bought Its Own Billboards](#xbox-already-bought-its-own-billboards) — Where the EA billboard question stayed open, a decade of Xbox dashboard ad saturation closes it: the operator fills its own surface because its house units resolve inside its own funnel, and sells everyone else the recall-grade version instead.
+23. [Brand Footprint Is Not Response](#brand-footprint-is-not-response) — Unmanaged, fan-made brand presence on UGC platforms (KFC's Roblox footprint) is a record that something happened, not evidence of what — and can't be converted into response evidence after the fact because no non-branded control was ever built.
+24. [EA Is Selling Impressions While Sitting on Response](#ea-is-selling-impressions-while-sitting-on-response) — EA's own live-service infrastructure already produces response-grade evidence, but the units EA sells brands are priced at exposure grade because nothing tells a buyer to ask for more.
+25. [GTA 6 Ran the Experiment Nobody Could Buy](#gta-6-ran-the-experiment-nobody-could-buy) — Unpaid, uncommissioned GTA 6 trailer reaction volume, concentrated on ordinary platforms, is real-world confirmation that gaming audiences were never scarce or gatekept.
+26. [Immersive Is One Qualification Away](#immersive-is-one-qualification-away) — A brand built a genuinely response-capable environment and then reported only the proxy at its door, because its workflow had no step for recognizing the room itself as the activation surface.
+27. [Is EA Buying the Billboards It Sells?](#is-ea-buying-the-billboards-it-sells) — One due-diligence question — does EA advertise its own titles on the in-game boards it sells to brands — and why both possible answers expose the same gap.
+28. [Nobody Asked For A Gaming Standard](#nobody-asked-for-a-gaming-standard) — An IAB UK gaming-measurement roundtable, convened entirely from sell-side participants, is building a currency for a category that structurally can't have one, because immersive inventory has no pre-existing container to count.
+29. [Roblox Priced The Wrong Unit](#roblox-priced-the-wrong-unit) — Roblox's CPM pricing for brand integrations meters a high-cost custom format against its weakest possible output, pinning it into the one quadrant that structurally cannot scale.
+30. [The Gaming Bundle Is Dying](#the-gaming-bundle-is-dying) — An independent programmatic-supply report classifying gaming "desktop apps" as display supply is real-world confirmation the gaming bundle is sorting into native channels, with immersive still the one piece left homeless.
+31. [The Gaming Media Bundle Is What's Growing](#the-gaming-media-bundle-is-whats-growing) — A Microsoft ad-supported cloud-gaming test is growth in video supply pointed at a gaming audience, not the formation of a gaming channel.
+32. [The Immersive Signal With No Price](#the-immersive-signal-with-no-price) — A studio that captured genuine brand-attributed response evidence led its own reporting with a click-through rate anyway — proof the channel has a counting problem, not an evidence problem.
+33. [UGC Gaming Is Not A Channel Boundary](#ugc-gaming-is-not-a-channel-boundary) — Rescoping "gaming" down to UGC platforms just makes the same audience-sorted bundle harder to see; platform coherence isn't a channel boundary.
+34. [Would EA Buy Anyone Else's Billboards?](#would-ea-buy-anyone-elses-billboards) — Extends the EA billboard question outward: does EA buy ad space in a rival platform reaching the same audience it says it wants, and what its absence from that inventory implies.
+35. [Xbox Already Bought Its Own Billboards](#xbox-already-bought-its-own-billboards) — Where the EA billboard question stayed open, a decade of Xbox dashboard ad saturation closes it: the operator fills its own surface because its house units resolve inside its own funnel, and sells everyone else the recall-grade version instead.
 
 ---
 
@@ -209,6 +210,15 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Sponsorship and creator content clearly fit this audience — so doesn't that make them immersive-grade formats?"
 - "If a format works well for gamers, why isn't that the same as it producing immersive evidence?"
 - "Are you saying sponsorship and creator formats are bad choices for this audience?"
+
+### The TV Shaped Channel
+**FILE:** `category-essays/The_TV_Shaped_Channel.md` — read in full before citing
+**JOB:** Answers the "bespoke production can never scale through a media plan" objection by showing TV solved the identical problem — separating the expensive production (funded supply-side, assembling audience at the network's risk) from the traded unit (the spot, small and repeatable) — and reads immersive's shift from owned branded worlds to in-world integrations as that same separation already forming; argues the piece TV can't hand down is its exposure currency, because immersive's insertion doesn't inherit the container's audience count the way a TV spot inherits the program's, so comparability has to relocate from a certified count to a procurement standard demanding direct behavioral proof.
+**PROBES:**
+- "Every activation is a custom build — doesn't that mean this channel can never scale the way a media plan needs?"
+- "TV is also bespoke and expensive to produce, so why did it scale when immersive hasn't?"
+- "If the market is moving from owned worlds to in-game integrations, isn't that just proof the channel needs its own ratings book?"
+- "Why can't immersive just get its own version of Nielsen once the integration format matures?"
 
 ### What To Ask A Gaming Vendor
 **FILE:** `category-essays/What_To_Ask_A_Gaming_Vendor.md` — read in full before citing
