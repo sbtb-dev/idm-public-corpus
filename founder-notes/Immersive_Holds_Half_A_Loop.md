@@ -27,14 +27,25 @@ That is the finding. Immersive's route to AppLovin's row does not run through a 
 Sources
  
 Overwolf doubled in-game ad sales to $100 million in 2024: Variety, via AOL, "Video Game Adtech Company Overwolf Doubles In-Game Ad Sales to $100 Million in 2024" — https://www.aol.com/video-game-adtech-company-overwolf-143257336.html
+
 Overwolf as the first gaming publisher on The Trade Desk's OpenPath: Overwolf blog — https://blog.overwolf.com/overwolf-partners-with-the-trade-desk-to-bring-advertisers-exclusive-gaming-inventory-through-openpath-integration
+
 Overwolf's last round, a $75 million Series D in November 2021, with about $150 million raised in total: Globes — https://en.globes.co.il/en/article-israeli-gaming-platform-overwolf-raises-75m-1001391316 ; CB Insights — https://www.cbinsights.com/company/overwolf/financials
+
 AppLovin second-quarter 2026 revenue of $1,924 million: AppLovin Form 8-K, Exhibit 99.1, August 5, 2026 — https://www.sec.gov/Archives/edgar/data/0001751008/000175100826000057/exhibit991-2q26earningspre.htm
+
 AppLovin's sale of its ten game studios to Tripledot Studios, closed June 30, 2025: Business Wire — https://www.businesswire.com/news/home/20250701033978/en/AppLovin-Completes-Sale-of-Mobile-Gaming-Business-to-Tripledot-Studios
+
 IAS viewability and invalid-traffic measurement on Roblox: Integral Ad Science — https://integralads.com/insider/first-to-market-roblox-measurement
+
 Kantar Context Lab forced-exposure brand lift as Roblox's interim solution: Daily Research News Online, May 2, 2024 — https://www.mrweb.com/drno/printable/pn36652.htm
+
 Roblox measurement partners including Cint, Kantar and Nielsen ONE (reach and frequency): Roblox newsroom, April 2025 — https://about.roblox.com/pl/newsroom/2025/04/roblox-scales-video-ads-partners-with-google
+
 Roblox and EDO partnership, announced June 18, 2026, including the search-lift method for branded events: Roblox newsroom — https://about.roblox.com/newsroom/2026/06/roblox-ipsos-edo-immersive-effective-measurement-partnerships-cannes-lions ; EDO — https://www.edo.com/resources/roblox-gaming-ad-outcomes
+
 Fortnite MyDisney account linking, 2025 First Order Stormtrooper reward and its extension to October 31, 2025: Epic Games Support — https://www.epicgames.com/help/c-202300000001636/c-202300000001721/how-do-i-get-the-first-order-stormtrooper-outfit-and-rewards-a202300000010316
+
 Fortnite MyDisney account linking, 2026 Carbonite Fishstick reward, the November 1, 2026 date, and the data-sharing note: Epic Games Support — https://www.epicgames.com/help/en-US/c-Category_EpicAccount/c-ConnectedAccounts/how-do-i-link-mydisney-account-to-my-epic-games-account-a000094484
+
 Fortnite LEGO account linking, Explorer Emilie and Mr Dappermint outfits: Fortnite news, December 7, 2023 — https://fortnite.com/news/connect-your-epic-and-lego-accounts-get-a-free-fortnite-outfit
