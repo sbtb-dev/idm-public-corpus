@@ -18,7 +18,7 @@ Pre-conversion observation is the missing term, and it qualifies by itself. Insi
  
 With the link in place, the same observation becomes the anchor that gives the outcome its meaning. The relation reads which observed behaviors preceded a link, and at what rate. Equipping predicted linking, or it did not. Returning predicted linking, or it did not. The result is a strength figure for each gate, reported in the outcome position and labelled by the record it was read against, which here is brand-instrumented. The outcome calibrates the strength of a response the environment already observed. It never replaces the response, and it never enters the response slot as demand. Disney would end up with the one thing its link count cannot give it: the ability to relate an in-environment behavior to an account on its own books, without tracking a single player across systems.
  
-[Diagram: observed_vs_sold_grid.svg]
+![Observed response vs. sold outcome, plotted by grade of evidence](observed_vs_sold_grid.png)
  
 The diagram makes the two verdicts the market has issued legible. Value climbs the diagonal with the grade of evidence sold. Overwolf is honestly priced and cheap. AppLovin is honestly priced and expensive, and its outcome row is fed by the advertiser, which is why it takes no brand buyer who cannot feed it. AppLovin is a calibration relation with no native response observed beneath it. Immersive is the reverse: native response with no relation run above it. Fortnite is the case where the coupling for that relation already exists and the first term was never observed.
  
