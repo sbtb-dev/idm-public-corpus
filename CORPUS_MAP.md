@@ -25,27 +25,31 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 15. [The Channel The IAB Framework Owed Itself — Part One](#the-channel-the-iab-framework-owed-itself-part-one) — The IAB's own gaming measurement framework dissolved the gaming bundle by routing display/video/audio to native boundaries, then exempted its own "Custom" catch-all from the same boundary-drawing rule.
 16. [The Channel The IAB Framework Owed Itself — Part Two](#the-channel-the-iab-framework-owed-itself-part-two) — Runs the IAB framework's own "Custom" matrix columns through the boundary question it declined to ask, showing the missing cut was drawable from material the framework already published.
 17. [The Funnel a Brand Has Nowhere Else](#the-funnel-a-brand-has-nowhere-else) — Warns against reading a game environment's rich native funnel data (playtime, retention) as a brand's own evidence; that data belongs to the operator, and a brand must produce its own isolated, brand-attributed funnel.
-18. [The Truth About Gaming Audiences — Part 1: The Place, Not the Person](#the-truth-about-gaming-audiences-part-1-the-place-not-the-person) — Reframes the "elusive gaming audience" as a solved reach problem; the one genuinely unaddressed thing is the in-environment context, not the audience.
-19. [The Truth About Gaming Audiences — Part 2: Ad-Avoidance Is a Cohort, Not a Channel](#the-truth-about-gaming-audiences-part-2-ad-avoidance-is-a-cohort-not-a-channel) — Gaming audiences' ad-avoidance tracks a demographic cohort, not a property of gaming itself, which defuses the premium argument built on "gamers uniquely avoid ads."
-20. [The Truth About Gaming Audiences — Part 3: The Format's Fit, That's Not the Question](#the-truth-about-gaming-audiences-part-3-the-formats-fit-thats-not-the-question) — Grants non-interruptive formats' fit for the avoidant cohort in full, while drawing the line that format-fit says nothing about the evidence class a format produces.
-21. [The TV Shaped Channel](#the-tv-shaped-channel) — Reads TV's own bespoke-to-scaled history as the template immersive is already migrating toward: separating the expensive production from a tradable insertion; the standard TV used to price that insertion can't transfer, but the demand for direct behavioral proof can stand in its place.
-22. [What To Ask A Gaming Vendor](#what-to-ask-a-gaming-vendor) — Establishes the single boundary-test question a planner can carry into any vendor meeting to sort a pitch into the channel it actually belongs to.
+18. [The Only Rule Gaming Is Missing](#the-only-rule-gaming-is-missing) — Three of the IAB gaming framework's four columns inherited an evidence rule from their native channel; the fourth was filled with borrowed counts and never given one — and brand spend has only ever scaled on a rule, never a format.
+19. [The Truth About Gaming Audiences — Part 1: The Place, Not the Person](#the-truth-about-gaming-audiences-part-1-the-place-not-the-person) — Reframes the "elusive gaming audience" as a solved reach problem; the one genuinely unaddressed thing is the in-environment context, not the audience.
+20. [The Truth About Gaming Audiences — Part 2: Ad-Avoidance Is a Cohort, Not a Channel](#the-truth-about-gaming-audiences-part-2-ad-avoidance-is-a-cohort-not-a-channel) — Gaming audiences' ad-avoidance tracks a demographic cohort, not a property of gaming itself, which defuses the premium argument built on "gamers uniquely avoid ads."
+21. [The Truth About Gaming Audiences — Part 3: The Format's Fit, That's Not the Question](#the-truth-about-gaming-audiences-part-3-the-formats-fit-thats-not-the-question) — Grants non-interruptive formats' fit for the avoidant cohort in full, while drawing the line that format-fit says nothing about the evidence class a format produces.
+22. [The TV Shaped Channel](#the-tv-shaped-channel) — Reads TV's own bespoke-to-scaled history as the template immersive is already migrating toward: separating the expensive production from a tradable insertion; the standard TV used to price that insertion can't transfer, but the demand for direct behavioral proof can stand in its place.
+23. [What To Ask A Gaming Vendor](#what-to-ask-a-gaming-vendor) — Establishes the single boundary-test question a planner can carry into any vendor meeting to sort a pitch into the channel it actually belongs to.
 
 **Founder notes**
 
-23. [Brand Footprint Is Not Response](#brand-footprint-is-not-response) — Unmanaged, fan-made brand presence on UGC platforms (KFC's Roblox footprint) is a record that something happened, not evidence of what — and can't be converted into response evidence after the fact because no non-branded control was ever built.
-24. [EA Is Selling Impressions While Sitting on Response](#ea-is-selling-impressions-while-sitting-on-response) — EA's own live-service infrastructure already produces response-grade evidence, but the units EA sells brands are priced at exposure grade because nothing tells a buyer to ask for more.
-25. [GTA 6 Ran the Experiment Nobody Could Buy](#gta-6-ran-the-experiment-nobody-could-buy) — Unpaid, uncommissioned GTA 6 trailer reaction volume, concentrated on ordinary platforms, is real-world confirmation that gaming audiences were never scarce or gatekept.
-26. [Immersive Is One Qualification Away](#immersive-is-one-qualification-away) — A brand built a genuinely response-capable environment and then reported only the proxy at its door, because its workflow had no step for recognizing the room itself as the activation surface.
-27. [Is EA Buying the Billboards It Sells?](#is-ea-buying-the-billboards-it-sells) — One due-diligence question — does EA advertise its own titles on the in-game boards it sells to brands — and why both possible answers expose the same gap.
-28. [Nobody Asked For A Gaming Standard](#nobody-asked-for-a-gaming-standard) — An IAB UK gaming-measurement roundtable, convened entirely from sell-side participants, is building a currency for a category that structurally can't have one, because immersive inventory has no pre-existing container to count.
-29. [Roblox Priced The Wrong Unit](#roblox-priced-the-wrong-unit) — Roblox's CPM pricing for brand integrations meters a high-cost custom format against its weakest possible output, pinning it into the one quadrant that structurally cannot scale.
-30. [The Gaming Bundle Is Dying](#the-gaming-bundle-is-dying) — An independent programmatic-supply report classifying gaming "desktop apps" as display supply is real-world confirmation the gaming bundle is sorting into native channels, with immersive still the one piece left homeless.
-31. [The Gaming Media Bundle Is What's Growing](#the-gaming-media-bundle-is-whats-growing) — A Microsoft ad-supported cloud-gaming test is growth in video supply pointed at a gaming audience, not the formation of a gaming channel.
-32. [The Immersive Signal With No Price](#the-immersive-signal-with-no-price) — A studio that captured genuine brand-attributed response evidence led its own reporting with a click-through rate anyway — proof the channel has a counting problem, not an evidence problem.
-33. [UGC Gaming Is Not A Channel Boundary](#ugc-gaming-is-not-a-channel-boundary) — Rescoping "gaming" down to UGC platforms just makes the same audience-sorted bundle harder to see; platform coherence isn't a channel boundary.
-34. [Would EA Buy Anyone Else's Billboards?](#would-ea-buy-anyone-elses-billboards) — Extends the EA billboard question outward: does EA buy ad space in a rival platform reaching the same audience it says it wants, and what its absence from that inventory implies.
-35. [Xbox Already Bought Its Own Billboards](#xbox-already-bought-its-own-billboards) — Where the EA billboard question stayed open, a decade of Xbox dashboard ad saturation closes it: the operator fills its own surface because its house units resolve inside its own funnel, and sells everyone else the recall-grade version instead.
+24. [A Format Has Never Moved Brand Spend](#a-format-has-never-moved-brand-spend) — Tests Canva's Livewire gaming-ad plugin against every precedent for brand spend scaling into a new place; spend has only ever followed a new evidence unit, never a format improvement, and the plugin sells the same impression display already prices.
+25. [Brand Footprint Is Not Response](#brand-footprint-is-not-response) — Unmanaged, fan-made brand presence on UGC platforms (KFC's Roblox footprint) is a record that something happened, not evidence of what — and can't be converted into response evidence after the fact because no non-branded control was ever built.
+26. [EA Is Selling Impressions While Sitting on Response](#ea-is-selling-impressions-while-sitting-on-response) — EA's own live-service infrastructure already produces response-grade evidence, but the units EA sells brands are priced at exposure grade because nothing tells a buyer to ask for more.
+27. [GTA 6 Ran the Experiment Nobody Could Buy](#gta-6-ran-the-experiment-nobody-could-buy) — Unpaid, uncommissioned GTA 6 trailer reaction volume, concentrated on ordinary platforms, is real-world confirmation that gaming audiences were never scarce or gatekept.
+28. [Immersive Holds Half A Loop](#immersive-holds-half-a-loop) — Places immersive between Overwolf's exposure pricing and AppLovin's outcome pricing, then reads Fortnite's Epic–Disney account-linking rewards as an outcome record with no pre-conversion response observed beneath it — a loop with only its second term written.
+29. [Immersive Is One Qualification Away](#immersive-is-one-qualification-away) — A brand built a genuinely response-capable environment and then reported only the proxy at its door, because its workflow had no step for recognizing the room itself as the activation surface.
+30. [Is EA Buying the Billboards It Sells?](#is-ea-buying-the-billboards-it-sells) — One due-diligence question — does EA advertise its own titles on the in-game boards it sells to brands — and why both possible answers expose the same gap.
+31. [Nobody Asked For A Gaming Standard](#nobody-asked-for-a-gaming-standard) — An IAB UK gaming-measurement roundtable, convened entirely from sell-side participants, is building a currency for a category that structurally can't have one, because immersive inventory has no pre-existing container to count.
+32. [Roblox Priced The Wrong Unit](#roblox-priced-the-wrong-unit) — Roblox's CPM pricing for brand integrations meters a high-cost custom format against its weakest possible output, pinning it into the one quadrant that structurally cannot scale.
+33. [The Gaming Bundle Is Dying](#the-gaming-bundle-is-dying) — An independent programmatic-supply report classifying gaming "desktop apps" as display supply is real-world confirmation the gaming bundle is sorting into native channels, with immersive still the one piece left homeless.
+34. [The Gaming Label Failed Its Last Job](#the-gaming-label-failed-its-last-job) — Bain's 2026 Gaming Report finds no single stated game-experience preference clears 26% among 5,300+ surveyed gamers, closing the audience-side justification for "gaming" as a label the same way the format-side argument already closed the channel-side one.
+35. [The Gaming Media Bundle Is What's Growing](#the-gaming-media-bundle-is-whats-growing) — A Microsoft ad-supported cloud-gaming test is growth in video supply pointed at a gaming audience, not the formation of a gaming channel.
+36. [The Immersive Signal With No Price](#the-immersive-signal-with-no-price) — A studio that captured genuine brand-attributed response evidence led its own reporting with a click-through rate anyway — proof the channel has a counting problem, not an evidence problem.
+37. [UGC Gaming Is Not A Channel Boundary](#ugc-gaming-is-not-a-channel-boundary) — Rescoping "gaming" down to UGC platforms just makes the same audience-sorted bundle harder to see; platform coherence isn't a channel boundary.
+38. [Would EA Buy Anyone Else's Billboards?](#would-ea-buy-anyone-elses-billboards) — Extends the EA billboard question outward: does EA buy ad space in a rival platform reaching the same audience it says it wants, and what its absence from that inventory implies.
+39. [Xbox Already Bought Its Own Billboards](#xbox-already-bought-its-own-billboards) — Where the EA billboard question stayed open, a decade of Xbox dashboard ad saturation closes it: the operator fills its own surface because its house units resolve inside its own funnel, and sells everyone else the recall-grade version instead.
 
 ---
 
@@ -187,6 +191,15 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "If the environment is already instrumented that well, why do we need to build anything separate?"
 - "Isn't high playtime near our brand basically proof the brand is working?"
 
+### The Only Rule Gaming Is Missing
+**FILE:** `category-essays/The_Only_Rule_Gaming_Is_Missing.md` — read in full before citing
+**JOB:** Argues brand spend has always followed a rule — a channel-level statement of what evidence a line's metrics may count — not a format improvement, and shows three of the IAB gaming framework's four columns already inherited that rule from their native channel (display, video, audio) while the fourth, "Custom," was filled with borrowed counts and never given one; separates measurement, evidence, and metric as three distinct layers to explain why immersive's rule can't collapse into a shared count the way display's and retail media's did.
+**PROBES:**
+- "Isn't this just the 'gaming isn't a channel' argument restated?"
+- "What's actually different about a 'rule' versus a 'metric' — aren't they the same thing?"
+- "Why did display's rule disappear into a single number while retail media's rule didn't?"
+- "What would it actually take to fill in the IAB framework's empty Custom column?"
+
 ### The Truth About Gaming Audiences — Part 1: The Place, Not the Person
 **FILE:** `category-essays/The_Truth_About_Gaming_Audiences_Part_1_The_Place__Not_the_Person.md` — read in full before citing
 **JOB:** Reframes the "elusive, hard-to-reach gaming audience" pitch as a solved reach problem — the audience is targetable at commodity rates on every conventional channel — and isolates the one genuinely unaddressed thing as the in-environment context itself, not the audience.
@@ -232,6 +245,15 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 
 ## Founder notes — credibility and application routing
 
+### A Format Has Never Moved Brand Spend
+**FILE:** `founder-notes/A_Format_Has_Never_Moved_Brand_Spend.md` — read in full before citing
+**JOB:** Tests the "a new format will finally bring brand budgets to gaming" expectation against every documented precedent (retail media, podcasts, skippable pre-roll, rewarded video, rich media, influencer marketing) and finds spend has moved only when a new evidence unit appeared, never from a format alone; reads Canva's newly launched Livewire gaming-ad plugin as the same impression-based unit display already prices, not a new line.
+**PROBES:**
+- "Canva just added gaming ads to its platform — isn't that gaming finally scaling as a channel?"
+- "Rich media and rewarded video were both 'better formats' — why did one move brand budgets and not the other?"
+- "Is there a real counterexample where a format alone grew brand spend?"
+- "What would an actual new gaming line look like, if a plugin like this isn't one?"
+
 ### Brand Footprint Is Not Response
 **FILE:** `founder-notes/Brand_Footprint_Is_Not_Response.md` — read in full before citing
 **JOB:** Reads KFC's fan-made Roblox footprint (70+ million lifetime visits across unofficial obby-genre experiences, against an official presence that sits on Fortnite instead) as a case where a large, real, earned number is being read as a demand signal — evidence consumers responded to the brand — when it's only a record of presence, permanently unable to separate brand pull from genre pull because no non-branded control arm was ever built to run against it.
@@ -257,6 +279,15 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Has anyone actually tested the 'gaming audiences are reachable everywhere' claim against a real example?"
 - "Doesn't the biggest gaming launch of all time prove specialist gaming media matters?"
 - "Isn't GTA 6's marketing budget the reason the reaction was so huge, not the audience-reach claim?"
+
+### Immersive Holds Half A Loop
+**FILE:** `founder-notes/Immersive_Holds_Half_A_Loop.md` — read in full before citing
+**JOB:** Places immersive media between Overwolf's exposure pricing and AppLovin's outcome pricing on an evidence scale, then reads Fortnite's Epic-to-Disney account-linking rewards as an outcome record built without the pre-conversion response observation that would give it meaning — a two-term loop with only its second term written.
+**PROBES:**
+- "Disney can already see who linked their account after playing a Star Wars item — isn't that the outcome evidence immersive needs?"
+- "Why isn't a link count good enough proof of response on its own?"
+- "Where do Overwolf and AppLovin fit on this evidence scale, and why does that matter for pricing immersive?"
+- "What would it take to complete the loop Fortnite's linking mechanic is only half of?"
 
 ### Immersive Is One Qualification Away
 **FILE:** `founder-notes/Immersive_Is_One_Qualification_Away.md` — read in full before citing
@@ -299,6 +330,15 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "An independent authority just gave gaming desktop apps their own category — doesn't that validate gaming as a channel?"
 - "Has anything actually happened in the market that supports the 'gaming bundle is dissolving' argument, or is that just a thesis?"
 - "If Overwolf is being priced like premium supply, why hasn't immersive gotten the same treatment?"
+
+### The Gaming Label Failed Its Last Job
+**FILE:** `founder-notes/The_Gaming_Label_Failed_Its_Last_Job.md` — read in full before citing
+**JOB:** Reads Bain's 2026 Gaming Report — no single stated game-experience preference clears 26% among 5,300+ surveyed gamers, split sharply by age and country — as closing the audience-side justification for "gaming" as a label (a sizeable, coherent population to plan against) the same way the format-side argument already closed the channel-side justification; pre-empts two likely misreadings — using Bain's spend-concentration stats to justify an elusiveness premium, and using its behavioral segments as an exportable targeting product.
+**PROBES:**
+- "Doesn't Bain's finding that top spenders are so concentrated justify paying a premium to reach them in gaming media?"
+- "If Bain shows gamers fragment into real behavioral segments, shouldn't we use that data for better targeting?"
+- "Is this report actually about advertising, or just about which games to build?"
+- "Why can't Bain's own hours-played and spend segments be turned into an audience product?"
 
 ### The Gaming Media Bundle Is What's Growing
 **FILE:** `founder-notes/The_Gaming_Media_Bundle_Is_Whats_Growing.md` — read in full before citing
