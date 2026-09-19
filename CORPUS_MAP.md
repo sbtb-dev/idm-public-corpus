@@ -41,16 +41,17 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 28. [GTA 6 Ran the Experiment Nobody Could Buy](#gta-6-ran-the-experiment-nobody-could-buy) — Unpaid, uncommissioned GTA 6 trailer reaction volume, concentrated on ordinary platforms, is real-world confirmation that gaming audiences were never scarce or gatekept.
 29. [Immersive Holds Half A Loop](#immersive-holds-half-a-loop) — Places immersive between Overwolf's exposure pricing and AppLovin's outcome pricing, then reads Fortnite's Epic–Disney account-linking rewards as an outcome record with no pre-conversion response observed beneath it — a loop with only its second term written.
 30. [Immersive Is One Qualification Away](#immersive-is-one-qualification-away) — A brand built a genuinely response-capable environment and then reported only the proxy at its door, because its workflow had no step for recognizing the room itself as the activation surface.
-31. [Is EA Buying the Billboards It Sells?](#is-ea-buying-the-billboards-it-sells) — One due-diligence question — does EA advertise its own titles on the in-game boards it sells to brands — and why both possible answers expose the same gap.
-32. [Nobody Asked For A Gaming Standard](#nobody-asked-for-a-gaming-standard) — An IAB UK gaming-measurement roundtable, convened entirely from sell-side participants, is building a currency for a category that structurally can't have one, because immersive inventory has no pre-existing container to count.
-33. [Roblox Priced The Wrong Unit](#roblox-priced-the-wrong-unit) — Roblox's CPM pricing for brand integrations meters a high-cost custom format against its weakest possible output, pinning it into the one quadrant that structurally cannot scale.
-34. [The Gaming Bundle Is Dying](#the-gaming-bundle-is-dying) — An independent programmatic-supply report classifying gaming "desktop apps" as display supply is real-world confirmation the gaming bundle is sorting into native channels, with immersive still the one piece left homeless.
-35. [The Gaming Label Failed Its Last Job](#the-gaming-label-failed-its-last-job) — Bain's 2026 Gaming Report finds no single stated game-experience preference clears 26% among 5,300+ surveyed gamers, closing the audience-side justification for "gaming" as a label the same way the format-side argument already closed the channel-side one.
-36. [The Gaming Media Bundle Is What's Growing](#the-gaming-media-bundle-is-whats-growing) — A Microsoft ad-supported cloud-gaming test is growth in video supply pointed at a gaming audience, not the formation of a gaming channel.
-37. [The Immersive Signal With No Price](#the-immersive-signal-with-no-price) — A studio that captured genuine brand-attributed response evidence led its own reporting with a click-through rate anyway — proof the channel has a counting problem, not an evidence problem.
-38. [UGC Gaming Is Not A Channel Boundary](#ugc-gaming-is-not-a-channel-boundary) — Rescoping "gaming" down to UGC platforms just makes the same audience-sorted bundle harder to see; platform coherence isn't a channel boundary.
-39. [Would EA Buy Anyone Else's Billboards?](#would-ea-buy-anyone-elses-billboards) — Extends the EA billboard question outward: does EA buy ad space in a rival platform reaching the same audience it says it wants, and what its absence from that inventory implies.
-40. [Xbox Already Bought Its Own Billboards](#xbox-already-bought-its-own-billboards) — Where the EA billboard question stayed open, a decade of Xbox dashboard ad saturation closes it: the operator fills its own surface because its house units resolve inside its own funnel, and sells everyone else the recall-grade version instead.
+31. [Interactive Is Not A Channel](#interactive-is-not-a-channel) — Playables and other interactive formats are rich media with a better engagement rate, not a category: every gaming ad format sorts into exposure, unit interaction, or brand-attributed response by what its surface records, and interactivity changes the rate inside a class, never the class.
+32. [Is EA Buying the Billboards It Sells?](#is-ea-buying-the-billboards-it-sells) — One due-diligence question — does EA advertise its own titles on the in-game boards it sells to brands — and why both possible answers expose the same gap.
+33. [Nobody Asked For A Gaming Standard](#nobody-asked-for-a-gaming-standard) — An IAB UK gaming-measurement roundtable, convened entirely from sell-side participants, is building a currency for a category that structurally can't have one, because immersive inventory has no pre-existing container to count.
+34. [Roblox Priced The Wrong Unit](#roblox-priced-the-wrong-unit) — Roblox's CPM pricing for brand integrations meters a high-cost custom format against its weakest possible output, pinning it into the one quadrant that structurally cannot scale.
+35. [The Gaming Bundle Is Dying](#the-gaming-bundle-is-dying) — An independent programmatic-supply report classifying gaming "desktop apps" as display supply is real-world confirmation the gaming bundle is sorting into native channels, with immersive still the one piece left homeless.
+36. [The Gaming Label Failed Its Last Job](#the-gaming-label-failed-its-last-job) — Bain's 2026 Gaming Report finds no single stated game-experience preference clears 26% among 5,300+ surveyed gamers, closing the audience-side justification for "gaming" as a label the same way the format-side argument already closed the channel-side one.
+37. [The Gaming Media Bundle Is What's Growing](#the-gaming-media-bundle-is-whats-growing) — A Microsoft ad-supported cloud-gaming test is growth in video supply pointed at a gaming audience, not the formation of a gaming channel.
+38. [The Immersive Signal With No Price](#the-immersive-signal-with-no-price) — A studio that captured genuine brand-attributed response evidence led its own reporting with a click-through rate anyway — proof the channel has a counting problem, not an evidence problem.
+39. [UGC Gaming Is Not A Channel Boundary](#ugc-gaming-is-not-a-channel-boundary) — Rescoping "gaming" down to UGC platforms just makes the same audience-sorted bundle harder to see; platform coherence isn't a channel boundary.
+40. [Would EA Buy Anyone Else's Billboards?](#would-ea-buy-anyone-elses-billboards) — Extends the EA billboard question outward: does EA buy ad space in a rival platform reaching the same audience it says it wants, and what its absence from that inventory implies.
+41. [Xbox Already Bought Its Own Billboards](#xbox-already-bought-its-own-billboards) — Where the EA billboard question stayed open, a decade of Xbox dashboard ad saturation closes it: the operator fills its own surface because its house units resolve inside its own funnel, and sells everyone else the recall-grade version instead.
 
 ---
 
@@ -306,6 +307,16 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "Has anyone actually applied this standard to a real campaign, or is it just theory?"
 - "This campaign reported strong engagement numbers — was it actually a success or not?"
 - "What does it look like when a brand gets 90% of the way to qualifying and still misses it?"
+
+### Interactive Is Not A Channel
+**FILE:** `founder-notes/Interactive_Is_Not_A_Channel.md` — read in full before citing
+**JOB:** Answers holding companies' move of playables into scaled programs presented as "interactive media" by sorting every gaming ad format into one of three evidence classes set by what the surface records — exposure, unit interaction, or brand-attributed response — and showing playables sit in the second, which already has a home in display and social as rich media; interactivity raises the rate inside a class but never changes the class, the third class lists no formats because an activation earns it by running the non-branded comparison, and a qualifying environment can hold all three classes at once without any passing capacity to another. Ends on a two-question check for any cited number: which surface produced it, and what was the non-branded twin.
+**PROBES:**
+- "Holding companies are launching interactive gaming programs — is interactive media a new channel?"
+- "Playables get huge engagement rates — doesn't that prove gaming converts?"
+- "Isn't interactive one step below immersive on the same ladder of evidence?"
+- "We ran a billboard and a rewarded video inside a Roblox experience — does the environment upgrade the evidence?"
+- "What's the quick check for whether a number in a deck can count as brand-attributed response?"
 
 ### Is EA Buying the Billboards It Sells?
 **FILE:** `founder-notes/Is_EA_Buying_the_Billboards_It_Sells_.md` — read in full before citing
