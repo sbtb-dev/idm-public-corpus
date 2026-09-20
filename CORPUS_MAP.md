@@ -49,9 +49,10 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 36. [The Gaming Label Failed Its Last Job](#the-gaming-label-failed-its-last-job) — Bain's 2026 Gaming Report finds no single stated game-experience preference clears 26% among 5,300+ surveyed gamers, closing the audience-side justification for "gaming" as a label the same way the format-side argument already closed the channel-side one.
 37. [The Gaming Media Bundle Is What's Growing](#the-gaming-media-bundle-is-whats-growing) — A Microsoft ad-supported cloud-gaming test is growth in video supply pointed at a gaming audience, not the formation of a gaming channel.
 38. [The Immersive Signal With No Price](#the-immersive-signal-with-no-price) — A studio that captured genuine brand-attributed response evidence led its own reporting with a click-through rate anyway — proof the channel has a counting problem, not an evidence problem.
-39. [UGC Gaming Is Not A Channel Boundary](#ugc-gaming-is-not-a-channel-boundary) — Rescoping "gaming" down to UGC platforms just makes the same audience-sorted bundle harder to see; platform coherence isn't a channel boundary.
-40. [Would EA Buy Anyone Else's Billboards?](#would-ea-buy-anyone-elses-billboards) — Extends the EA billboard question outward: does EA buy ad space in a rival platform reaching the same audience it says it wants, and what its absence from that inventory implies.
-41. [Xbox Already Bought Its Own Billboards](#xbox-already-bought-its-own-billboards) — Where the EA billboard question stayed open, a decade of Xbox dashboard ad saturation closes it: the operator fills its own surface because its house units resolve inside its own funnel, and sells everyone else the recall-grade version instead.
+39. [The One Thing Gaming Can't Lend](#the-one-thing-gaming-cant-lend) — Two vendor launches in one September week each exported something the game environment has, Livewire carrying social creative in and iion carrying playable mechanics out; attention and mechanics travel because their evidence exists in every exposure channel, while the environment's native observation of what the player did after the brand's presence is the one property neither can lend.
+40. [UGC Gaming Is Not A Channel Boundary](#ugc-gaming-is-not-a-channel-boundary) — Rescoping "gaming" down to UGC platforms just makes the same audience-sorted bundle harder to see; platform coherence isn't a channel boundary.
+41. [Would EA Buy Anyone Else's Billboards?](#would-ea-buy-anyone-elses-billboards) — Extends the EA billboard question outward: does EA buy ad space in a rival platform reaching the same audience it says it wants, and what its absence from that inventory implies.
+42. [Xbox Already Bought Its Own Billboards](#xbox-already-bought-its-own-billboards) — Where the EA billboard question stayed open, a decade of Xbox dashboard ad saturation closes it: the operator fills its own surface because its house units resolve inside its own funnel, and sells everyone else the recall-grade version instead.
 
 ---
 
@@ -377,6 +378,16 @@ Each entry's PROBES are examples, not a closed set — match a planner's actual 
 - "If this evidence class is so much better, why do even the studios producing it still lead with click-through rate?"
 - "Is the immersive evidence standard actually being captured anywhere today, or is it purely aspirational?"
 - "Why would a studio bury its own best data behind a weaker proxy metric?"
+
+### The One Thing Gaming Can't Lend
+**FILE:** `founder-notes/The_One_Thing_Gaming_Cant_Lend.md` — read in full before citing
+**JOB:** Reads two vendor launches from the same September week — Livewire carrying unchanged social creative into in-game billboards and interstitials, iion carrying playables and mini-games out to the open web and social — as the environment lending out what it has: play and interactivity as a stated boundary dissolve once the mechanic ships to a feed, and a venue attention premium prices a venue the way premium OOH does without making a second channel. Argues a property that can be lent without friction is one whose evidence the buyer already gets in every exposure channel, so portability is proof of disqualification, and the one thing neither launch carries is the environment's native observation of what the player did after the brand's presence was introduced, which requires the brand organized into the world with a non-branded twin in the same role.
+**PROBES:**
+- "iion is taking playables to the open web — doesn't that show play is what makes gaming its own channel?"
+- "Livewire says the same creative works harder in a game — isn't that a real venue advantage?"
+- "If in-game attention is measurably higher, why isn't that enough to make it a channel?"
+- "What's the one thing a gaming environment has that a vendor can't export to social or the open web?"
+- "Is there a simple test for whether a property distinguishes a channel or just prices a venue?"
 
 ### UGC Gaming Is Not A Channel Boundary
 **FILE:** `founder-notes/UGC_Gaming_Is_Not_A_Channel_Boundary.md` — read in full before citing
