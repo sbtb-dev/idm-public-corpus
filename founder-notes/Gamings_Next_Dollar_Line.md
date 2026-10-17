@@ -39,7 +39,9 @@ That standard is why performance lines scale. Each buy earns the next on its own
 
 Brand spend has never had a line that meets the standard, because the only instruments that meet it observe conversion. Everything above conversion is measured by a second purchase. A lift study is a survey about recall. A marketing mix model is a coefficient on aggregate spend. A geo-holdout observes sales, which is not what the brand brief was buying. The brand pays for the media, pays again for the instrument, waits for the result, and still cannot say what the first payment did at the stage it targeted.
 
-This is why brand budgets lose ground every planning cycle. Not because brand objectives are worth less. Because the evidence standard the next dollar follows has only ever existed at the bottom of the funnel, and brand spend lives above it.
+Brand lines have grown without that standard. Television, out-of-home, and online video scaled on a currency: a standard unit, a count every buyer accepts, and an agreement to treat delivery as the value bought. The currency does not say what any buy did. It makes buys comparable, so the next dollar can follow habit and commitment instead of a record. Most of the gaming bundle can be bought the same way, and it should be.
+
+One line in gaming cannot. Without a currency and without evidence, it grows the way sponsorship grew: outside the media plan, sized by commitment, and capped at what leadership can defend. It has to earn the next dollar the other way.
 
 ## The one line that passes
 There is one line in gaming that can meet the standard at a brand stage. It is the line the IAB document files under “custom integrations” and “branded worlds,” measures with custom KPIs and lift studies, and treats as the expensive end of the gaming media bundle.
