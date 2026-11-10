@@ -1,3 +1,5 @@
+# Wendy's RPG Answered a Different Brief
+
 A brand that builds its own game is not taking on something too hard. It simply has to pick the right objective, then design for it.
 
 Wendy's, a QSR headquarted in the USA, launched [WendyQuest: Legend of the Four Corner Stones](https://nerdist.com/article/wendys-wendyquest-free-rpg-win-rewards/) on November 4. It is a free retro roleplaying game (**RPG**): ~15 hours long, on Steam, iOS and Android. You play as Wendy. The villains wear a golden "M." Each boss you beat unlocks a code for real food in the Wendy's app.
@@ -6,7 +8,7 @@ Here's a question many in the gaming industry are asking: **Is Steam the right p
 
 That is a fair question about one objective. **It is the wrong question for deciding whether a brand should build its own game.**
 
-### The download question scores one objective
+## The download question scores one objective
 
 The critique judges the game on reach. Peak players, reviews and downloads all count how many people showed up. On that count, a standalone game on Steam loses to a branded experience on a platform that already has the audience. The critique is spot on there.
 
@@ -14,7 +16,7 @@ But reach is one objective among several, and a brand rarely builds a game for r
 
 So "is Steam the right place?" has no answer until a second question is settled: what is the game for? Each objective has its own measure. A game can do well on one and be the wrong tool for another. The mistake is to judge every brand game on the lowest hanging measure.
 
-### What WendyQuest does well
+## What WendyQuest does well
 
 Judged on the right objectives, WendyQuest is a good build. It serves two of them well and one in part.
 
@@ -24,7 +26,7 @@ The loyalty row deserves more credit than it will get. The redemptions land in W
 
 The press row is real too. Wendy's made the brand the whole world, cast its rival as the villain and made the punchline the game. That is memorable. A smaller role for the brand might have been less so.
 
-### The objective it cannot serve
+## The objective it cannot serve
 
 The last row is the one no other brand line delivers on its own: *did the brand's presence move the behavior of the people it reached toward the brand, before the sale, with no offer or reward?* WendyQuest cannot answer that, for two reasons.
 
@@ -34,7 +36,7 @@ The last row is the one no other brand line delivers on its own: *did the brand'
 
 The reward could be removed in a later version. The brand-centric structure could not, without rebuilding the game. That is the real lesson of WendyQuest. It was not too hard. It was designed for press and loyalty, and the design closes off the objective that immersive media, bought right, exists to serve.
 
-### What the boundary asks of an owned game
+## What the boundary asks of an owned game
 
 An owned game can serve the objective — moving behavior of the people it reached toward the brand, before sale, with no offer or reward. To do so, however, it must meet the boundary that defines immersive media bought right. None of the conditions is exotic. Each is a design choice made before the build starts.
 
@@ -47,7 +49,7 @@ An owned game can serve the objective — moving behavior of the people it reach
 
 The last condition answers the download question. A one-campaign game carries its whole build cost on one launch, so reach is all it can be judged on. A standing game spreads that cost over every campaign it carries. A brand with one campaign and this objective should not build a game at all.
 
-### What the brand gets
+## What the brand gets
 
 With immersive media bought right, the buy places your brand where people can choose it or refuse it. Its own record shows whether, and how far, it moved the behavior of the people it reached toward your brand, with no offer or reward attached, before the sale.
 
@@ -57,7 +59,7 @@ The record can come back flat. A record that can say no is worth taking to finan
 
 None of this costs the brand the other rows. A qualifying game still makes news, and it can still feed a loyalty program on a separate line. Those come along, each read in its own column. They just do not decide what the game is for.
 
-### Pick the objective, then the design
+## Pick the objective, then the design
 
 The question for a brand is not "can we get enough downloads?" It is "what is this game for?"
 
@@ -67,7 +69,7 @@ The question for a brand is not "can we get enough downloads?" It is "what is th
 
 A brand-furnished game is not too hard — if it serves the right objectives. WendyQuest is a good game built for the objectives it serves. The next brand to build one has a choice Wendy's did not make: build a game that can show whether the brand moved anyone.
 
-### Sources
+## Sources
 
 - [Nerdist: Wendy's launches WendyQuest, a free RPG to win rewards](https://nerdist.com/article/wendys-wendyquest-free-rpg-win-rewards/)
 - [Dexerto: WendyQuest rewards players with real food and is 15 hours long](https://www.dexerto.com/gaming/wendys-free-rpg-rewards-players-with-real-food-for-beating-bosses-and-is-15-hours-long-3424910/)
