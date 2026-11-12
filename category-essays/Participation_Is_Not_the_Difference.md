@@ -8,7 +8,7 @@ This matters to a planner because the in-game work is sold as media, not experie
 
 Take a typical vendor report and remove gaming-related words — player, game mechanics, etc. The report below is a composite, and its figures are illustrative only.
 
-![Article content](https://media.licdn.com/dms/image/v2/D4E12AQEF5eI18sSgWQ/article-inline_image-shrink_1000_1488/B4EaHIGztzJ8AI-/0/1794358590903?e=1796256000&v=beta&t=GtqP2iY-322SviMPTzenLjp92EhOfqPXrmcMEk6qX0o)
+![Substitution test table](substitution_test_table.png)
 
 Each line has an equivalent, and no line needs a game. The survey line is the clearest example. A survey in a game and a survey at an event both record what people said, not what they did.
 
