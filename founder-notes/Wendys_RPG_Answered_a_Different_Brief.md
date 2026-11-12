@@ -20,7 +20,7 @@ So "is Steam the right place?" has no answer until a second question is settled:
 
 Judged on the right objectives, WendyQuest is a good build. It serves two of them well and one in part.
 
-![Article content](https://media.licdn.com/dms/image/v2/D4E12AQHDWVt2FF7Lhw/article-inline_image-shrink_1000_1488/B4EaHCIYMEIgAM-/0/1794258339127?e=1795651200&v=beta&t=sCm6JDKdHbUTdw-KQvBW4Gnij0MnKUU974Q7ikDEzsk)
+![WendyQuest objectives table](WendyQuest_objectives_table.png)
 
 The loyalty row deserves more credit than it will get. The redemptions land in Wendy's own app, not on a platform dashboard. That is a brand owned record. Most brand-furnished games do not produce that.
 
