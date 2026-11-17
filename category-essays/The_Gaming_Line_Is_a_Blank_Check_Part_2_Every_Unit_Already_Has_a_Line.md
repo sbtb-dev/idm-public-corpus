@@ -1,4 +1,4 @@
-# # The Gaming Line Is a Blank Check, Part 2: Every Unit Already Has a Line
+# The Gaming Line Is a Blank Check, Part 2: Every Unit Already Has a Line
 
 *The fix for the gaming line is the planning discipline brands already use for every other dollar.*
 
