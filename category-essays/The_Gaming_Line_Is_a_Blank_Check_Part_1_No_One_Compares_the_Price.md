@@ -18,7 +18,7 @@ A line holds the budget, has one owner, and has one benchmark that decides the n
 
 A gaming line can be well controlled and still miss the one check that controls price. The IAB's case shows this, because its controls are real. It tests a gaming recommendation on business fit, audience, brand contribution, trust, and measurement. It asks for decision-ready metrics, a decision rule set before launch, and a next-dollar threshold. It lets the CMO say no for now. It lists cost metrics: CPM, cost per conversion, and cost per action. Its minimum test standard asks for a benchmark (IAB, pp. 14, 17).
 
-What's missing is a benchmark. Nothing in the August 2026 case tells the team to compare a gaming buy's cost with the same unit outside gaming. That is fair for a document written for CMOs, which leaves buying detail to the team. But its planners' companion, where that detail lives, also asks for a benchmark without naming one.
+What's missing is the comparison. Nothing in the August 2026 case tells the team to compare a gaming buy's cost with the same unit outside gaming. That is fair for a document written for CMOs, which leaves buying detail to the team. But its planners' companion, where that detail lives, also asks for a benchmark without naming one.
 
 So a team can meet every standard with a benchmark drawn from other gaming buys. Its checks would show whether gaming worked, against gaming's own bar. They would not show whether the brand paid more for a unit than it pays for the same unit in its native line: the line where the brand buys that unit from other sellers.
 
