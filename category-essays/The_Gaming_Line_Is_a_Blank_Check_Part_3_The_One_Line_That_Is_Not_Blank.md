@@ -1,4 +1,4 @@
-# # The Gaming Line Is a Blank Check, Part 3: The One Line That Is Not Blank
+# The Gaming Line Is a Blank Check, Part 3: The One Line That Is Not Blank
 
 *One part of gaming supply earns a line of its own. It earns that line by what the buy returns, not by where it runs, and it is the only line from the bundle with a price check built in.*
 
